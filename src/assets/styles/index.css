@@ -1,0 +1,17 @@
+.app .container {
+  padding-top: 2rem;
+}
+
+.post-form {
+  padding-bottom: 2rem;
+}
+
+.app.login {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
